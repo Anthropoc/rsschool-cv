@@ -1,1 +1,1 @@
-https://Anthropoc.github.io/rsschool-cv/cv
+https://Anthropoc.github.io/rsschool-cv/index
